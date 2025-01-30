@@ -1,7 +1,11 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-numpy
 streamlit
+pandas
+numpy
+matplotlib
 seaborn
+sklearn.model_selection
+sklearn
+imblearn.over_sampling
+sklearn.ensemble
+xgboost
+sklearn.metrics
